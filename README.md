@@ -15,7 +15,7 @@ The neural network architecture can be found in the model folder. There are 3 .p
     - The learning parameters that include:
        - Base Learning Rate
        - Learning Rate Policy, like step down/exponential
-       - Gamma for learning rate
+       - Gamma for learning rate
        - Step size
        - Display Prompt
        - Average loss
